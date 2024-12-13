@@ -35,7 +35,7 @@ main div {
     display: flex;
 }
 
-main div section {
+main div section article{
     flex: 1;
 }
 
